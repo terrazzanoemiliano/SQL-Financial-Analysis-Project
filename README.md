@@ -1,4 +1,5 @@
-This project is intended to demonstrate my Intermediate skills in SQL by analysing and evaluating: 
+This project focuses on analyzing business and financial data using SQL to simulate real-world FP&A and business analysis scenarios. 
+The queries are used to calculate: 
 - Performance metric (Monthly Revenue, COGS, and Gross Margin %)
 - Analytics metric (Window Functions for YoY growth and 3-month rolling averages)
 - Variance Analysis (Actual vs. Budget)
